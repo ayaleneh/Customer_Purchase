@@ -13,7 +13,7 @@ public class Customer_Purchase {
         System.out.println("please enter the tax code");
         tax_code=scanner.nextInt();
           double sales;
-        // it is very easy if we use switch for this problem
+
 
             if(tax_code==0) {
                 sales = 0.0;
